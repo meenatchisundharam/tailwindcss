@@ -1,5 +1,5 @@
 <template>
-  <nav class="py-3 sm:mx-3 bg-white border-b border-gray-100 z-50">
+  <nav class="py-3 sm:mx-3 bg-white border-b border-gray-100 sticky top-0 z-50">
   <div class="container md:px-12 md:flex md:justify-between md:items-center">
          <div class="flex items-center justify-between" >
            <a href="#" class="flex items-center text-green-900 text-3xl md:mr-3"><i class="fa-solid fa-bolt"></i><span class="text-gray-900"> fast</span>
